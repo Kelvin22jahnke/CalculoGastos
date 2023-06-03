@@ -1,0 +1,10 @@
+C:\Users\Kelvin\source\repos\CalculoGasto\CalculoGasto\bin\Debug\CalculoGasto.exe.config
+C:\Users\Kelvin\source\repos\CalculoGasto\CalculoGasto\bin\Debug\CalculoGasto.exe
+C:\Users\Kelvin\source\repos\CalculoGasto\CalculoGasto\bin\Debug\CalculoGasto.pdb
+C:\Users\Kelvin\source\repos\CalculoGasto\CalculoGasto\obj\Debug\CalculoGasto.csproj.AssemblyReference.cache
+C:\Users\Kelvin\source\repos\CalculoGasto\CalculoGasto\obj\Debug\CalculoGasto.frmCalculoGastos.resources
+C:\Users\Kelvin\source\repos\CalculoGasto\CalculoGasto\obj\Debug\CalculoGasto.Properties.Resources.resources
+C:\Users\Kelvin\source\repos\CalculoGasto\CalculoGasto\obj\Debug\CalculoGasto.csproj.GenerateResource.cache
+C:\Users\Kelvin\source\repos\CalculoGasto\CalculoGasto\obj\Debug\CalculoGasto.csproj.CoreCompileInputs.cache
+C:\Users\Kelvin\source\repos\CalculoGasto\CalculoGasto\obj\Debug\CalculoGasto.exe
+C:\Users\Kelvin\source\repos\CalculoGasto\CalculoGasto\obj\Debug\CalculoGasto.pdb
