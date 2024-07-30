@@ -39,13 +39,13 @@ jobs:
 
     # Restore the application to populate the obj folder with RuntimeIdentifiers
     - name: Restore the application
-      run: msbuild $env:Solution_Name /t:Restore /p:Configuration=$env:Configuration
+      run: msbuild CalculoGasto.csproj /t:Restore 
       env:
         Configuration: ${{ matrix.configuration }}
 
     # Create the app by building and publishing the project
     - name: Create the app
-      run: msbuild $env:Solution_Name /t:Publish /p:Configuration=$env:Configuration /p:Platform=$env:Platform
+      run: msbuild CalculoGasto.csproj /t:Publish 
       env:
         Configuration: ${{ matrix.configuration }}
         Platform: ${{ matrix.platform }}
@@ -55,4 +55,4 @@ jobs:
       uses: actions/upload-artifact@v2
       with:
         name: Upload app
-        path: ${{ env.Solution_Name }}\\bin
+        path: ${{CalculoGasto.csproj}}\\bin
