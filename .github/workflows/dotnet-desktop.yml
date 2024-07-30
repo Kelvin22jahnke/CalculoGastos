@@ -55,4 +55,4 @@ jobs:
       uses: actions/upload-artifact@v2
       with:
         name: Upload app
-        path: ${{CalculoGasto.csproj}}\\bin
+        path: CalculoGasto.csproj\\bin
